@@ -145,17 +145,16 @@ The project can be extended to include additional features as required.
 
 ## Author
 
-👤 **Ajinkya Padule**
+👤 **Mohammad Ashif**
 
-* GitHub: [AjinkyaPersonal](https://github.com/AjinkyaPersonal)
+* GitHub: [Mohammad Ashif]( https://github.com/ashifdeveloper)
 
-* LinkedIn: [Ajinkya Padule](https://www.linkedin.com/in/ajinkya-padule-04b8541a6/)
     
 ---
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]("url").
+Contributions, issues and feature requests are welcome.
     
 ---
     
@@ -167,8 +166,7 @@ Give a ⭐️ if this project helped you!
     
 ## 📝 License
 
-Copyright © 2023 [Ajinkya Padule](https://github.com/AjinkyaPersonal).<br />
-
-This project is [MIT]("url") licensed.
+Copyright © 2023 [Mohammad Ashif]( https://github.com/ashifdeveloper).<br />
     
 ---
+
